@@ -1,0 +1,14 @@
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\bin\Debug\net6.0\Static class, Extensions methods.exe
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\bin\Debug\net6.0\Static class, Extensions methods.deps.json
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\bin\Debug\net6.0\Static class, Extensions methods.runtimeconfig.json
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\bin\Debug\net6.0\Static class, Extensions methods.dll
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\bin\Debug\net6.0\Static class, Extensions methods.pdb
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\obj\Debug\net6.0\Static class, Extensions methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\obj\Debug\net6.0\Static class, Extensions methods.AssemblyInfoInputs.cache
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\obj\Debug\net6.0\Static class, Extensions methods.AssemblyInfo.cs
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\obj\Debug\net6.0\Static class, Extensions methods.csproj.CoreCompileInputs.cache
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\obj\Debug\net6.0\Static class, Extensions methods.dll
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\obj\Debug\net6.0\refint\Static class, Extensions methods.dll
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\obj\Debug\net6.0\Static class, Extensions methods.pdb
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\obj\Debug\net6.0\Static class, Extensions methods.genruntimeconfig.cache
+C:\Users\Mirdavud\source\repos\Static class, Extensions methods\Static class, Extensions methods\obj\Debug\net6.0\ref\Static class, Extensions methods.dll
